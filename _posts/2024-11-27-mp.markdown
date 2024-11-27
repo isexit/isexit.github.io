@@ -1,0 +1,20 @@
+---
+layout: post
+title: "收藏网址"
+author: "isexit"
+header-style: text
+catalog: true
+tags:
+  - Web
+  - JavaScript
+---
+
+# 个人收藏的网址
+
+为了可以快速查找自己想要的资料
+
+## 学习类
+
+**菜鸟教程**
+
+[https://www.runoob.com/](https://www.runoob.com/)
